@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
                 backgroundColor: Colors.green,
                 radius: 50,
                 backgroundImage: AssetImage('images/image3.jpg'),
-              ),
+              ), //circle my image
               Text(
                 'Mg Si Thu Shein',
                 style: TextStyle(
